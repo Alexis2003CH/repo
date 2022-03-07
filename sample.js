@@ -1,5 +1,6 @@
 // Primera version
 function suam(a,b) {
-    return a+b
+    const result = a+b
+    return result
     
 }
